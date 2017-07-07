@@ -1,0 +1,13 @@
+/node_modules/
+/bundles/
+**/*.log
+*.ngfactory.ts
+*.css.shim.ts
+*.ngsummary.json
+*.metadata.json
+*.ngstyle.ts
+/src/+app/**/*.css
+/src/assets/css/*.css
+.editorconfig
+/.vscode/
+webpack.records.json
