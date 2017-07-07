@@ -25,9 +25,9 @@ module.exports = {
     output: {
         path: helpers.root('bundles'),
         publicPath: '/',
-        filename: 'core.umd.js',
+        filename: 'core.js',
         library: 'ngx-translate-core',
-        libraryTarget: 'umd'
+        libraryTarget: 'commonjs'
     },
 
     // require those dependencies but don't bundle them

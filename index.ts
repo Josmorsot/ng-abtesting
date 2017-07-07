@@ -1,1 +1,1 @@
-export * from './src/ab-testing';
+export * from './src/ng-testing.module';
