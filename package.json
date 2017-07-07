@@ -1,7 +1,7 @@
 {
-  "name": "cityss-front",
-  "version": "4.1.2",
-  "description": "City Sightseeing with Angular 4.2.2",
+  "name": "ng-abtest",
+  "version": "0.0.1",
+  "description": "A/B testing for Angular",
   "repository": {
     "type": "git",
     "url": "https://github.com/Josmorsot/ng-abtesting.git"
