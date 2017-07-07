@@ -4,7 +4,7 @@
   "description": "City Sightseeing with Angular 4.2.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Josmorsot/universal-starter.git"
+    "url": "https://github.com/Josmorsot/ng-abtesting.git"
   },
   "scripts": {
     "watch": "webpack --watch --config webpack.dev.config.ts",
